@@ -64,7 +64,7 @@ export default function Stack() {
                 <Cpu size={17} />
               </span>
               <p style={{ margin: 0, fontFamily: "var(--font-prose)", fontStyle: "italic", fontSize: 14.5, lineHeight: 1.62, color: "rgba(238,236,230,0.72)" }}>
-                Cursor AI, GitHub Copilot and Cline sit in my daily loop — for speed and exploration,
+                Cursor AI, GitHub Copilot, Cline, Antigravity and Codex sit in my daily loop — for speed and exploration,
                 never as a substitute for understanding the code I ship.
               </p>
             </div>

@@ -53,6 +53,7 @@ export const tickerItems = [
   "WordPress",
   "Laravel",
   "WooCommerce",
+  "Shopify",
   "MySQL",
   "PostgreSQL",
   "REST APIs",
@@ -201,6 +202,7 @@ export const skillGroups: { id: string; label: string; note: string; items: { na
     note: "Stores that convert and checkouts that cooperate.",
     items: [
       { name: "WooCommerce", level: "core", detail: "Catalogue, cart, orders" },
+      { name: "Shopify", level: "core", detail: "Store setup, theme customisation, apps" },
       { name: "Payment gateways", level: "advanced", detail: "Providers, webhooks, failure paths" },
       { name: "Custom checkout", level: "core", detail: "Streamlined multi-step flows" },
       { name: "SEO & performance", level: "core", detail: "Caching, markup, Core Web Vitals" },
@@ -217,6 +219,8 @@ export const skillGroups: { id: string; label: string; note: string; items: { na
       { name: "Cursor AI", level: "advanced", detail: "AI-assisted implementation" },
       { name: "GitHub Copilot", level: "advanced", detail: "Pair programming, refactors" },
       { name: "Cline", level: "practised", detail: "Agentic coding workflows" },
+      { name: "Antigravity", level: "advanced", detail: "Autonomous agentic coding workflows" },
+      { name: "Codex", level: "advanced", detail: "AI code generation & assistance" },
     ],
   },
 ];
